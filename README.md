@@ -16,6 +16,8 @@ Archived version (paper and artifacts): https://doi.org/10.5281/zenodo.23734450
 
 Nobuo Otoi. *Securing Internet Routing: Machine-Checked Proofs for ASPA Route-Leak Detection and a False-Positive Flaw in the ASRA Extension.* Preprint, version 1, October 2026. Zenodo. https://doi.org/10.5281/zenodo.23734450
 
+Summary and citation: https://ba-cybersecurity.com/research/aspa-asra-verification/
+
 ## Lean (`lean/Aspa.lean`)
 
 Lean 4 v4.33.1, core only, no Mathlib, no lakefile needed:
@@ -54,4 +56,4 @@ are checkers.
 
 ## License
 
-Apache-2.0. Author: Nobuo Otoi (BA Cybersecurity).
+Apache-2.0. Author: Nobuo Otoi (ba-cybersecurity.com).
