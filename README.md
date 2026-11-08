@@ -12,6 +12,8 @@ Securing Internet routing: machine-checked proofs for ASPA route-leak detection 
 Paper: `paper/aspa-verify.pdf` (LaTeX source `paper/aspa-verify.tex`).
 Archived version (paper and artifacts): https://doi.org/10.5281/zenodo.23734450
 
+Status: the lead author of the ASRA draft replied on the SIDROPS list (29 Oct 2026; [thread](https://mailarchive.ietf.org/arch/msg/sidrops/lbJM6uVwlYvbU8w3r4Q8-iSSQaY)) that the algorithms will be re-checked; not yet in a published revision.
+
 ## How to cite
 
 Nobuo Otoi. *Securing Internet Routing: Machine-Checked Proofs for ASPA Route-Leak Detection and a False-Positive Flaw in the ASRA Extension.* Preprint, version 1, October 2026. Zenodo. https://doi.org/10.5281/zenodo.23734450
